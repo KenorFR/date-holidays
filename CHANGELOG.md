@@ -2,6 +2,7 @@
 
 v1.2.7-0
 - New Country St. Helena
+- New Country Lesotho
 
 v1.2.6
 - New holiday Turkey Democracy and National Unity Day
